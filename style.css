@@ -22,7 +22,7 @@ body
 }
 .image
 {
-    width: 30%;
+    width: 3rem;
 }
 .heading .row
 {
@@ -32,6 +32,14 @@ body
 .hide
 {
     visibility: hidden;
+}
+.Dice
+{
+    width: 40%;
+}
+footer
+{
+    padding-top: 2%;
 }
 
 
