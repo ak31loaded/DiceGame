@@ -1,0 +1,37 @@
+body
+{
+    background-color: plum;
+    text-align: center;
+}
+.heading
+{  
+    font-family: 'Mochiy Pop P One', sans-serif;
+    padding: 4% 5%;
+}
+#Middle
+{
+    font-family: 'Pacifico', cursive;
+}
+#Bottom
+{
+    font-family: 'EB Garamond', serif;
+}
+.row
+{
+    padding: 1% 10%;
+}
+.image
+{
+    width: 30%;
+}
+.heading .row
+{
+    padding: 1% 17%;
+    
+}
+.hide
+{
+    visibility: hidden;
+}
+
+
